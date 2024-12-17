@@ -1,5 +1,6 @@
 
 # Technical Interview Preparation Guide
+(Reference: https://www.amazon.jobs/content/en/how-we-hire/interview-prep/software-development-topics)
 
 ## What Topics Should You Prepare For?
 
